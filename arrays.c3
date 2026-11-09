@@ -1,3 +1,5 @@
+// adapted from https://github.com/ben256dev/butil/blob/main/test/main.c
+
 import std::collections;
 import std::io;
 

@@ -1,3 +1,5 @@
+// adapted from https://github.com/ben256dev/kinetest/blob/main/ik_speed_test.c
+
 module limb;
 import std::math;
 
